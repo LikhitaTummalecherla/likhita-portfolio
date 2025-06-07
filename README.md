@@ -44,5 +44,5 @@ Developed a fully responsive shopping site as part of an internship.
 ---
 
 ## 📎 Links
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Notion Portfolio: (to be added soon)
+- GitHub:(https://github.com/LikhitaTummalecherla)
+  
